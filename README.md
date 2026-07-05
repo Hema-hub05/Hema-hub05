@@ -51,11 +51,20 @@ An ML-based system that automatically screens and ranks resumes based on job req
 ### 📜 Certifications
 
 <details>
-<summary>🐍 Python Preparatory Certification - Intellipaat (Click to view)</summary>
+<summary>🐍 Python Preparatory Certification - Intellipaat</summary>
 
 ![Python Certification](./certificates/python-certification.png)
 
 </details>
+
+<details>
+<summary>🗄️ Microsoft SQL Certification Training - Intellipaat</summary>
+
+![SQL Certification](./certificates/sql-certification.png)
+
+</details>
+
+---
 
 ---
 
