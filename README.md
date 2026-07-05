@@ -48,6 +48,15 @@ An ML-based system that automatically screens and ranks resumes based on job req
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema-hub05&layout=compact&theme=radical)
 
+### 📜 Certifications
+
+<details>
+<summary>🐍 Python Preparatory Certification - Intellipaat (Click to view)</summary>
+
+![Python Certification](./certificates/python-certification.png)
+
+</details>
+
 ---
 
 ### 🌐 Connect with Me
