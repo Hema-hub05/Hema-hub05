@@ -60,7 +60,7 @@ An ML-based system that automatically screens and ranks resumes based on job req
 <details>
 <summary>🗄️ Microsoft SQL Certification Training - Intellipaat</summary>
 
-![SQL Certification](./certificates/SQL-certification.png)
+![SQL Certification](SQL-certification.png)
 
 </details>
 
