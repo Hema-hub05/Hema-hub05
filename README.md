@@ -53,7 +53,7 @@ An ML-based system that automatically screens and ranks resumes based on job req
 <details>
 <summary>🐍 Python Preparatory Certification - Intellipaat</summary>
 
-![Python Certification](./certificates/python-certification.png)
+![Python Certification](python-certification.png)
 
 </details>
 
