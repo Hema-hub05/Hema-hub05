@@ -43,10 +43,9 @@ An ML-based system that automatically screens and ranks resumes based on job req
 ---
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hema-hub05&show_icons=true&theme=tokyonight)
 
-![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hema-hub05&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema-hub05&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema-hub05&layout=compact&theme=tokyonight)
 
 ### 📜 Certifications
 
